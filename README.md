@@ -26,7 +26,7 @@ const nemisolv = {
             js: ["Node","Express"]
         },
         devOps: ["Docker"],
-        databases: ["MySQL", "Mongo", "Postgresql", "Redis"]
+        databases: ["MySQL", "Mongo", "Postgresql", "Redis"],
         funFact: "Trying to write clean code while my English comments look like: // idk, fix later."
 
     
