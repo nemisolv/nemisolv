@@ -50,9 +50,77 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-```txt
-No activity tracked
+![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 155.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 329 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 14 Public Repositories 
+ > 
+> 🔑 19 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+🌆 Daytime                49 commits          ███████░░░░░░░░░░░░░░░░░░   29.70 % 
+🌃 Evening                47 commits          ███████░░░░░░░░░░░░░░░░░░   28.48 % 
+🌙 Night                  58 commits          █████████░░░░░░░░░░░░░░░░   35.15 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   18 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+Tuesday                  24 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+Wednesday                13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
+Thursday                 28 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+Friday                   27 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
+Saturday                 33 commits          █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Sunday                   22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Ho_Chi_Minh
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Java** 
+
+```text
+Java                     15 repos            ███████████░░░░░░░░░░░░░░   42.86 % 
+TypeScript               11 repos            ████████░░░░░░░░░░░░░░░░░   31.43 % 
+JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/nemisolv/nemisolv/main/assets/bar_graph.png)
+
+
+ Last Updated on 15/12/2024 14:49:17 UTC
 <!--END_SECTION:waka-->
