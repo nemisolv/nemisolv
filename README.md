@@ -10,28 +10,31 @@
 
 
 
-``` javascript
-const nemisolv = {
-    pronouns: "He" | "Him",
-    age: 21,
-    name: "Vu Hoai Nam",
-    technologies: {
-        frontEnd: {
-            js: ["React", "NextJS"],
-            css: ["Tailwind"],
-            uiLibs: ["Shadcn UI"]
-        },
-        backEnd: {
-            java: ["Spring Boot"],
-            js: ["Node","Express"]
-        },
-        devOps: ["Docker"],
-        databases: ["MySQL", "Mongo", "Postgresql", "Redis"],
-        funFact: "Trying to write clean code while my English comments look like: // idk, fix later."
+``` java
+package net.nemisolv.profile;
 
-    
+public class MyProfile {
+
+    private String nickname = "nemisolv";
+    private String[] skills = {"Java (Spring Boot)", "React (NextJS)", "Node.js (Express)"};
+    private String[] tools = {"Docker"};
+    private String[] databases = {"MySQL", "MongoDB", "PostgreSQL", "Redis"};
+    private String favoriteJoke = "Why do programmers prefer dark mode?\n🌙 Because light attracts bugs!";
+
+    public static void main(String[] args) {
+        MyProfile profile = new MyProfile();
+        System.out.println(profile.getProfileInfo());
     }
-};
+
+    public String getProfileInfo() {
+        return String.format("👨‍💻 Hello there! I'm %s.\n" +
+                        "🚀 I specialize in: %s.\n" +
+                        "🛢️ I work with: %s databases and use %s for DevOps.\n" +
+                        "🧹 Always striving for clean code, though my comments often sound like: // idk, fix later.\n",
+                nickname, String.join(", ", skills), String.join(", ", databases), String.join(", ", tools));
+    }
+}
+
 
 ```
 
