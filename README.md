@@ -4,7 +4,7 @@
 
 <div style="flex: 1;">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=8000&pause=1000&center=true&vCenter=true&width=1280&height=100&lines=Hello%2C+I'm+nemisolv%2C+trying+to+'solve'+life+but+often+end+up+'nemi-stuck'+instead%F0%9F%98%85%F0%9F%94%A7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&vCenter=true&width=1280&height=100&lines=Hello%2C+I'm+nemisolv%2C+a+passionate+Java+backend+from+Vietnam;Every+time+I+speak+English%2C+my+brain+throws+a+'WordNotFoundException.'+%F0%9F%A4%AF%F0%9F%93%9A)](https://git.io/typing-svg)
 
 </div>
 
