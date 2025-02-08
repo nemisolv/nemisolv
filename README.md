@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi%2C+I'm+nemisolv%2C+a+Java+backend+dev+from+Vietnam.;My+brain+throws+'WordNotFoundException'+when+I+speak+English.+%F0%9F%A4%AF%F0%9F%93%9A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&repeat=false&multiline=true&width=800&height=100&lines=Hi%2C+I'm+nemisolv%2C+a+Java+backend+dev+from+Vietnam.;My+brain+throws+'WordNotFoundException'+when+I+speak+English.+%F0%9F%A4%AF%F0%9F%93%9A)](https://git.io/typing-svg)
 
 <p align="center">
 
