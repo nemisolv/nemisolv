@@ -10,30 +10,17 @@
 
 
 
-``` java
-package net.nemisolv.profile;
+``` javascript
+const profile = {
+  pronoun: "he/him",
+  nickname: "nemisolv",
+  skills: ["Java (Spring Boot)", "React (Next.js)", "Node.js (Express)"],
+  tools: ["Docker"],
+  databases: ["MySQL", "MongoDB", "PostgreSQL", "Redis"],
+};
 
-public class MyProfile {
+export default profile;
 
-    private String nickname = "nemisolv";
-    private String[] skills = {"Java (Spring Boot)", "React (NextJS)", "Node.js (Express)"};
-    private String[] tools = {"Docker"};
-    private String[] databases = {"MySQL", "MongoDB", "PostgreSQL", "Redis"};
-    private String favoriteJoke = "Why do programmers prefer dark mode?\n🌙 Because light attracts bugs!";
-
-    public static void main(String[] args) {
-        MyProfile profile = new MyProfile();
-        System.out.println(profile.getProfileInfo());
-    }
-
-    public String getProfileInfo() {
-        return String.format("👨‍💻 Hello there! I'm %s.\n" +
-                        "🚀 I specialize in: %s.\n" +
-                        "🛢️ I work with: %s databases and use %s for DevOps.\n" +
-                        "🧹 Always striving for clean code, though my comments often sound like: // idk, fix later.\n",
-                nickname, String.join(", ", skills), String.join(", ", databases), String.join(", ", tools));
-    }
-}
 
 
 ```
