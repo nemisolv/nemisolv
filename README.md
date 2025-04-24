@@ -64,11 +64,11 @@ No Activity Tracked This Week
 **I Mostly Code in Java** 
 
 ```text
-Java                     18 repos            ██████████░░░░░░░░░░░░░░░   41.86 % 
-TypeScript               15 repos            █████████░░░░░░░░░░░░░░░░   34.88 % 
-JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
-Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
-CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+Java                     18 repos            ██████████░░░░░░░░░░░░░░░   40.91 % 
+TypeScript               15 repos            █████████░░░░░░░░░░░░░░░░   34.09 % 
+JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+Smarty                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 ```
 
 
