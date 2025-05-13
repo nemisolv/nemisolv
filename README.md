@@ -15,8 +15,8 @@ const profile = {
   pronoun: "he/him",
   nickname: "nemisolv",
   skills: ["Java (Spring Boot)", "React (Next.js)", "Node.js (Express)"],
-  tools: ["Docker"],
-  databases: ["MySQL", "MongoDB", "PostgreSQL", "Redis"],
+  tools: ["Docker, k8s"],
+  databases: ["MySQL(MariaDB)"],
 };
 
 export default profile;
