@@ -29,7 +29,19 @@ export default profile;
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%2029%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
+🌆 Daytime                134 commits         ███████░░░░░░░░░░░░░░░░░░   27.13 % 
+🌃 Evening                132 commits         ███████░░░░░░░░░░░░░░░░░░   26.72 % 
+🌙 Night                  172 commits         █████████░░░░░░░░░░░░░░░░   34.82 % 
+```
+
 
 
 <!--END_SECTION:waka-->
